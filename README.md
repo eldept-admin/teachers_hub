@@ -1,2 +1,2 @@
 # teachers_hub
-Access only for EL teachers admin; students are not allowed.
+For teachers: It contains headlines, summaries, and link to lesson resources.
